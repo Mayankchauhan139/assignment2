@@ -15,7 +15,7 @@ This repository contains two simple Python programs:
    ```
 3. Run the programs:
 
-   - To check even or odd:
+   - To check even or odd
      ```bash
      python task1.py
      ```
